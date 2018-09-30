@@ -1,4 +1,4 @@
-# install for istio with rke
+# install for istio with rke - no wrap
 
 need docker ce 17.0.3 not 18
 setup virtmanager with bridge enabled on host machine
